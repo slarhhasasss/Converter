@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="menuButtonExit">Exit</string>
+</resources>
